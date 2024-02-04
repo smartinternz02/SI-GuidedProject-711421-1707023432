@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Your Account</name>
+   <tag></tag>
+   <elementGuidId>13aa6b07-245c-448e-b245-05f1a07f37f0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.a-link-normal</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='a-page']/section/div/div/ul/li/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>698781ed-e595-44f6-93a8-2de8852eac31</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>a-link-normal</value>
+      <webElementGuid>09a1ec09-73bc-4fe2-bcd7-9553dcadd085</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/your-account/ref=ppx_yo2ov_dt_b_ya_link</value>
+      <webElementGuid>375a0c42-7c78-4872-9f20-54028c9d3f91</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Your Account</value>
+      <webElementGuid>d53a16c0-7f1b-41c1-aebd-08de8e2f2f10</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;a-js a-audio a-video a-canvas a-svg a-drag-drop a-geolocation a-history a-webworker a-autofocus a-input-placeholder a-textarea-placeholder a-local-storage a-gradients a-transform3d a-touch-scrolling a-text-shadow a-text-stroke a-box-shadow a-border-radius a-border-image a-opacity a-transform a-transition a-ember&quot;]/body[@class=&quot;a-m-us a-aui_72554-c a-aui_a11y_1_699934-c a-aui_a11y_4_835613-c a-aui_a11y_6_837773-c a-aui_a11y_sr_678508-c a-aui_killswitch_csa_logger_372963-c a-aui_pci_risk_banner_210084-c a-aui_preload_261698-c a-aui_rel_noreferrer_noopener_309527-c a-aui_template_weblab_cache_333406-c a-aui_tnr_v2_180836-c a-meter-animate&quot;]/div[@id=&quot;a-page&quot;]/section[@class=&quot;your-orders-content-container aok-relative js-yo-container&quot;]/div[@class=&quot;your-orders-content-container__content js-yo-main-content&quot;]/div[@class=&quot;a-section a-spacing-medium a-spacing-top-small&quot;]/ul[@class=&quot;breadcrumbs&quot;]/li[@class=&quot;breadcrumbs__crumb&quot;]/a[@class=&quot;a-link-normal&quot;]</value>
+      <webElementGuid>5d47b79a-384c-4959-917d-45053b522454</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='a-page']/section/div/div/ul/li/a</value>
+      <webElementGuid>bac24707-0eb7-4316-8a83-b745f9211216</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Your Account')]</value>
+      <webElementGuid>3de28292-72e5-49fb-b3c6-ba8b89246d02</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/your-account/ref=ppx_yo2ov_dt_b_ya_link')]</value>
+      <webElementGuid>9e186e4c-1029-471f-9ad6-be18dff8e5d3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li/a</value>
+      <webElementGuid>d4c8ec20-fb46-4b77-b5f8-04b883457ec2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/your-account/ref=ppx_yo2ov_dt_b_ya_link' and (text() = 'Your Account' or . = 'Your Account')]</value>
+      <webElementGuid>9d362163-d6b7-4194-8605-fdd14f4a9aef</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

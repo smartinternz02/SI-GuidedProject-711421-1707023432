@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img</name>
+   <tag></tag>
+   <elementGuidId>7167bfe6-242a-4d18-879d-6e30b98c9a0f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>img[alt=&quot;Sorry! We couldn't find that page. Try searching or go to Amazon's home page.&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='h']/div/a/img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>7130d5b5-ea7d-41a4-824e-455889b19655</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://images-na.ssl-images-amazon.com/images/G/01/error/title._TTD_.png</value>
+      <webElementGuid>bc05923e-a63c-4288-82c1-9535e3d7341d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>Sorry! We couldn't find that page. Try searching or go to Amazon's home page.</value>
+      <webElementGuid>6f9db742-3846-48f2-ac8c-e0d142a376a8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;h&quot;)/div[1]/a[1]/img[1]</value>
+      <webElementGuid>449015e5-83c5-445d-86d9-60931fad24a8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='h']/div/a/img</value>
+      <webElementGuid>67c14bb1-7cb2-429a-b7ee-75e7af2cf849</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt=&quot;Sorry! We couldn't find that page. Try searching or go to Amazon's home page.&quot;]</value>
+      <webElementGuid>f4033b72-e930-46c5-bbaa-14f679a3c271</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/a/img</value>
+      <webElementGuid>acc32e05-3a73-4195-bd38-7973bbf8a5f4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'https://images-na.ssl-images-amazon.com/images/G/01/error/title._TTD_.png' and @alt = concat(&quot;Sorry! We couldn&quot; , &quot;'&quot; , &quot;t find that page. Try searching or go to Amazon&quot; , &quot;'&quot; , &quot;s home page.&quot;)]</value>
+      <webElementGuid>bd58964b-85c6-4f8d-8b2c-7e9cc47badce</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
